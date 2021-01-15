@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "AVRAssembler1", "AVRAssembler1\AVRAssembler1.asmproj", "{4EE537EE-94E9-4E6F-AF16-073145911787}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EE537EE-94E9-4E6F-AF16-073145911787}.Debug|AVR.ActiveCfg = Debug|AVR
+		{4EE537EE-94E9-4E6F-AF16-073145911787}.Debug|AVR.Build.0 = Debug|AVR
+		{4EE537EE-94E9-4E6F-AF16-073145911787}.Release|AVR.ActiveCfg = Release|AVR
+		{4EE537EE-94E9-4E6F-AF16-073145911787}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
